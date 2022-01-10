@@ -1,7 +1,7 @@
 # TMask_Miktorik
 Python, Prarmiko, Mikrotik
 
-
+# Run
 python tmask_mikrotik.py
 
 

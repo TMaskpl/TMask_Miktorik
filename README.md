@@ -2,6 +2,7 @@
 Python, Prarmiko, Mikrotik
 
 
+python tmask_mikrotik.py
 
 
 ################################

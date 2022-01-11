@@ -6,8 +6,8 @@ python tmask_mikrotik.py
 
 
 ################################
-# Create and download backupu Mikrotika
+# Tworzenie i pobieranie plikow backup z Mikrotik
     getHostsMt('mikrotik.csv')
     
-# remove backupu Mikrotik
+# Usuwanie plikow backup z Mikrotik
     delOldBkpMt('mikrotik.csv')
